@@ -25,4 +25,4 @@ pre-built, fully responsive HTML snippets you can drop into your projects. Get s
  
  ## Authors
  Olena Shkurenko 
- guided by lector javascript.infor Herman Semikozov
+ guided by lector javascript.info Herman Semikozov
